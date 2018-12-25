@@ -1,0 +1,2 @@
+# Everspace
+Everspace Game Files
