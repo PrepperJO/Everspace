@@ -1,0 +1,47 @@
+// CMC File
+//  Game Title:  Everspace
+//  written  by:  Prepper Jo
+
+/////////////////////////
+// Steering
+Boost LSHF
+
+////////////////////////
+// Combat
+
+Use-Device  r
+Use-Consumable  c
+Lock-Target t
+Lock-Nearest-Hostile  z
+Next-Primary-Weapon 1
+Previous-Primary-Weapon 8
+Next-Secondary-Weapon 2
+Previous-Secondary-Weapon 5
+Next-Device 3
+Previous-Device 6
+Next-Consumable 4
+Previous-Consumable 7
+
+////////////////////////
+// Menus and  Interface
+
+Ingame-Menu  TAB
+System-Menus  p
+OK-Interact f
+Cancel-Back ESC
+Menu-Action-2 r
+Menu-Action-3 c
+Navigate-Up w
+Navigate-Down s
+Navigate-Left a  
+Navigate-Right  d
+Next-Tab  e
+Previous-Tab q
+
+////////////////////////
+// Miscellinious
+
+Change-Camera v
+Toggle-Hud-Visibility h
+Action-Freeze z
+Freelook-Mode LALT
