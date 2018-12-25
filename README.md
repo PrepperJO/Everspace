@@ -21,3 +21,12 @@ Fitting Config for Everspace is included too
 *Input.ini*: Controller Config File for Everspace
 
 *Everspace.pdf*: Overview of Joystick Mappings 
+
+*Everspace.pdf*: Overview of Joystick Mappings 
+
+*Everspace.cmc*: CH Command File for CH Manager
+
+*Everspace.cms*: CH Script File for CH Manager
+
+*Everspace.map*: CH Mapping File forCH Manager
+
